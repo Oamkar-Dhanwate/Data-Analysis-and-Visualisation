@@ -1,4 +1,4 @@
-# Data-Analysis-and-Visualisation 
+# Market-Analysis  
 ---
 1. Data Loading and Setup  
 - Libraries Used: The notebook imports essential libraries, including `numpy`, `pandas`, `seaborn`, and `matplotlib`.  
